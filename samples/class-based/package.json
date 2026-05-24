@@ -1,0 +1,16 @@
+{
+  "name": "gulp-sample1",
+  "version": "1.0.0",
+  "description": "Gulp sample 1",
+  "license": "MIT",
+  "author": "Masato Maeda",
+  "type": "commonjs",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "gulp": "^5.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "ts-node": "^10.9.2"
+  }
+}
